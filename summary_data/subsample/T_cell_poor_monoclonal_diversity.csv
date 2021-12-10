@@ -1,0 +1,10 @@
+Sample,shannon_index_TCR,shannon_index_tool,tool,clonotype_count_tool,absolute_error,tissue_type,repertoire_type,class
+insilco_sample1,1.0726745756027252,0.36703061800206416,MIXCR,1,0.705643957600661,T_cell_poor,monoclonal,T_cell_poor_monoclonal
+insilco_sample1,1.0726745756027252,0.36568242860565664,IMREP,1,0.7069921469970686,T_cell_poor,monoclonal,T_cell_poor_monoclonal
+insilco_sample1,1.0726745756027252,0.36568242860565664,TRUST4,1,0.7069921469970686,T_cell_poor,monoclonal,T_cell_poor_monoclonal
+insilco_sample2,1.0012016309632137,0.36787904267252053,MIXCR,1,0.6333225882906932,T_cell_poor,monoclonal,T_cell_poor_monoclonal
+insilco_sample2,1.0012016309632137,0.3633598560227554,IMREP,1,0.6378417749404584,T_cell_poor,monoclonal,T_cell_poor_monoclonal
+insilco_sample2,1.0012016309632137,0.36459634918508305,TRUST4,1,0.6366052817781307,T_cell_poor,monoclonal,T_cell_poor_monoclonal
+insilco_sample3,0.9605164909041769,0.45222645186855626,MIXCR,3,0.5082900390356206,T_cell_poor,monoclonal,T_cell_poor_monoclonal
+insilco_sample3,0.9605164909041769,0.3844455627279438,IMREP,2,0.5760709281762331,T_cell_poor,monoclonal,T_cell_poor_monoclonal
+insilco_sample3,0.9605164909041769,0.38619012842755024,TRUST4,2,0.5743263624766266,T_cell_poor,monoclonal,T_cell_poor_monoclonal
