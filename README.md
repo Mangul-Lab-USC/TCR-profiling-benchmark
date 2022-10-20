@@ -15,13 +15,14 @@ Here we provide scripts and commands we used in our study "Rigorous benchmarking
 
 We have used following RNA-Seq based TCR profiling tools:
 
-* MIXCR (v 3.0.13), https://mixcr.readthedocs.io/en/master/
+* MIXCR (v 3.0.13), https://mixcr.readthedocs.io/en/master
 * IMREP (v 1.0), https://github.com/Mangul-Lab-USC/ImReP
 * TRUST4 (v 1.0.2), https://github.com/liulab-dfci/TRUST4
+* CATT (v 1.9.1), https://github.com/GuoBioinfoLab/CATT
 
 ## Data
 
-This study used 20 samples which were sequenced by both TCR-Seq and RNA-Seq. The data included in this repository contains the results of the methods, as well as the processed TCR-Seq data. 
+This study used 19 samples which were sequenced by both TCR-Seq and RNA-Seq. The data included in this repository contains the results of the methods, as well as the processed TCR-Seq data. 
 
 [summary_data](https://github.com/Mangul-Lab-USC/TCR-Seq_benchmarking_publication/tree/main/summary_data) includes the data that created all figures in the manuscript.
 
