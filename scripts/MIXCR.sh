@@ -18,6 +18,10 @@ do
 
 echo $sample_id
 
-/project/mangul_341/keruipen/tools/mixcr-3.0.13/mixcr analyze shotgun --species hs --starting-material rna --only-productive ${sample_id}_1.fastq ${sample_id}_2.fastq ${sample_id}
+/project/mangul_341/keruipen/tools/mixcr-3.0.13/mixcr analyze shotgun \
+    --species hs --starting-material rna \
+    --assemble '-ObadQualityThreshold=0' \
+    --assemble '-OaddReadsCountOnClustering=true' \
+    ${sample_id}_1.fastq ${sample_id}_2.fastq ${sample_id}
 
 done<sample_id.txt
